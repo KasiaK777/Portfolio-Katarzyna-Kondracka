@@ -1,4 +1,7 @@
 # Data Analytics Portfolio
+This repository showcases my projects in Data Science and Machine Learning, including data analysis, visualization, 
+and predictive modeling. Projects use diverse datasets—such as e-commerce, flights, and financial data—and demonstrate 
+the ability to generate insights and build ML models from data cleaning to model evaluation.
 
 Witaj w moim portfolio! Tutaj przedstawiam moje projekty analityczne.
 
