@@ -1,17 +1,13 @@
                                                                       Bootstrap Regression – Python
 
+This project demonstrates the use of the bootstrap method in Python to assess the stability of regression models. It compares two types of models: Linear Regression, Decision Tree Regressor
 
-Ten projekt demonstruje użycie metody bootstrap w Pythonie do oceny stabilności modeli regresji.
-W projekcie porównywane są dwa typy modeli: Regresja liniowa (Linear Regression), Drzewo decyzyjne (Decision Tree Regressor)
+The bootstrap method allows for: multiple resampling of training data with replacement, fitting multiple models to different samples, analyzing the variability of predictions and evaluating errors.
 
-Metoda bootstrap pozwala na:
--wielokrotne próbkowanie danych treningowych z powtórzeniem,
-dopasowanie wielu modeli do różnych próbek,
-analizę zmienności predykcji i ocenę błędów.
+Features
 
-Funkcjonalności
-- Generowanie syntetycznych danych regresyjnych y = 2x + szum,
-- Podział danych na zbiór treningowy i testowy,
-- Wielokrotne dopasowanie modeli przy użyciu bootstrapu,
-- Obliczanie średniego błędu MSE dla każdej iteracji,
-- Analiza korelacji między predykcjami różnych modeli.
+- Generating synthetic regression data y = 2x + noise,
+- Splitting data into training and testing sets,
+- Repeatedly fitting models using the bootstrap method,
+- Calculating the mean squared error (MSE) for each iteration,
+- Analyzing the correlation between predictions of different models.
