@@ -31,19 +31,18 @@ This project demonstrates end-to-end data analysis: from raw CSV to well-prepare
 Titanic_Logistic_Regression_Hyperparameter_Tuning
 Hyperparameter tuning of a Logistic Regression model on the Titanic dataset, including:
 
-- One-hot encoding and data preprocessing
-- Splitting into train/test sets
-- Hyperparameter tuning using GridSearchCV and RandomizedSearchCV
-- Optimization of penalty and C with F1-score as the target metric
-- 8-fold cross-validation
-- Analysis and comparison of best hyperparameters from both methods
-- Project 05 – Bootstrap_Statistical_Analysis
-
-  Implementation of Bootstrap resampling for statistical estimation, including:
-- Estimation of confidence intervals for key statistics
-- Application to real datasets for robust inference
-- Visualization of Bootstrap distributions and results
+   - One-hot encoding and data preprocessing
+   - Splitting into train/test sets
+   - Hyperparameter tuning using GridSearchCV and RandomizedSearchCV
+   - Optimization of penalty and C with F1-score as the target metric
+   - 8-fold cross-validation
+   - Analysis and comparison of best hyperparameters from both methods
+   
+     Implementation of Bootstrap resampling for statistical estimation, including:
+   - Estimation of confidence intervals for key statistics
+   - Application to real datasets for robust inference
+   - Visualization of Bootstrap distributions and results
 
 
 - **[Project 05 GridSearch](./Project_05_GridSearch/)** 
-
+- **[Project 06 Financial_Cash_Flow_model](./Project_06_Financial_Cash_Flow_model/)**
